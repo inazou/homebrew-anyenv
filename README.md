@@ -5,7 +5,7 @@
 ### Usage
 
 ```
-$ brew tap mumoshu/anyenv
+$ brew tap inazou/anyenv
 ```
 
 And then install anyenv:
